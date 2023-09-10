@@ -1,3 +1,3 @@
-export enum Company {
+const enum Company {
 	name = 'company_name'
 }
